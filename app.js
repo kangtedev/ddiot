@@ -1,4 +1,4 @@
-const API_URL = 'https://your-netlify-function.netlify.app/.netlify/functions/led';
+const API_URL = '/.netlify/functions/led';
 
 const ledStatus = document.getElementById('ledStatus');
 const toggleBtn = document.getElementById('toggleBtn');
